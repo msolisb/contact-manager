@@ -1,0 +1,68 @@
+{
+  "contacts": [
+    {
+      "id": "sdfs3215",
+      "name": "Mikel",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "mobile": "123456789",
+      "emali": "mike@mike.com",
+      "title": "Junior Dev",
+      "company": "Impresolsa",
+      "group": "1"
+    },
+    {
+      "id": "2",
+      "name": "kghjkghk852",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "mobile": "123456789",
+      "emali": "chilo@mike.com",
+      "title": "Administrator",
+      "company": "Impresolsa",
+      "group": "1"
+    },
+    {
+      "id": "ryurut96449",
+      "name": "Milena",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "mobile": "123456789",
+      "emali": "milena@mike.com",
+      "title": "Accounting",
+      "company": "Impresolsa",
+      "group": "1"
+    },
+    {
+      "id": "ncbncvn35848",
+      "name": "Bryan",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "mobile": "123456789",
+      "emali": "mike@mike.com",
+      "title": "Student",
+      "company": "Impresolsa",
+      "group": "2"
+    },
+    {
+      "id": "sfadasf258769",
+      "name": "Dominique",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "mobile": "987654331",
+      "emali": "dominique@mike.com",
+      "title": "Caller",
+      "company": "Impresolsa",
+      "group": "3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friends"
+    }
+  ]
+}
